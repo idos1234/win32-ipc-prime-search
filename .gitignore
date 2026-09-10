@@ -1,0 +1,51 @@
+# Visual Studio & Build Outputs
+.vs/
+x64/
+x86/
+Debug/
+Release/
+[Dd]ebug/
+[Rr]elease/
+build/
+out/
+bin/
+obj/
+
+# Compiled Binaries & Intermediate Files
+*.exe
+*.dll
+*.so
+*.dylib
+*.obj
+*.o
+*.lib
+*.a
+
+# Debugging & Database Files
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.ipdb
+*.iobj
+*.sdf
+*.opensdf
+*.db
+
+# Visual Studio User-Specific Files
+*.user
+*.aps
+*.suo
+*.userosv
+*.sln.docstates
+
+# VS Code (מתעלם מתיקיית ההגדרות האישיות)
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/settings.json
+
+# OS Generated Files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
